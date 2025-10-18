@@ -1,3 +1,10 @@
+[![Add to Cursor](https://fastmcp.me/badges/cursor_dark.svg)](https://fastmcp.me/MCP/Details/538/memoer-persistent-memory-storage)
+[![Add to VS Code](https://fastmcp.me/badges/vscode_dark.svg)](https://fastmcp.me/MCP/Details/538/memoer-persistent-memory-storage)
+[![Add to Claude](https://fastmcp.me/badges/claude_dark.svg)](https://fastmcp.me/MCP/Details/538/memoer-persistent-memory-storage)
+[![Add to ChatGPT](https://fastmcp.me/badges/chatgpt_dark.svg)](https://fastmcp.me/MCP/Details/538/memoer-persistent-memory-storage)
+[![Add to Codex](https://fastmcp.me/badges/codex_dark.svg)](https://fastmcp.me/MCP/Details/538/memoer-persistent-memory-storage)
+[![Add to Gemini](https://fastmcp.me/badges/gemini_dark.svg)](https://fastmcp.me/MCP/Details/538/memoer-persistent-memory-storage)
+
 # @memoer-mcp
 
 A minimal, pluggable memory management library for Node.js, inspired by OpenMemory. Supports local SQLite storage, semantic search (Qdrant), and OpenAI embeddings. No web server, no frontend—just a programmatic API.
